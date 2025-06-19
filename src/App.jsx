@@ -26,6 +26,7 @@ const App = () => {
           </div>
         } />
       </Routes>
+      <Analytics />
     </BrowserRouter>
   );
 }
